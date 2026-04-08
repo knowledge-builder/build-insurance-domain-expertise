@@ -1,0 +1,52 @@
+
+Stage: Decision Making
+    - Review of Evidence
+      - Insurer checks all documentation: accident reports, photos, receipts, medical records
+      - Ensures accuracy, completeness, and consistency with the claim details
+    - Policy Coverage Assessment
+      - Verify claim against policy terms, conditions, exclusions, deductibles, and limits
+    - Expert Consultation
+      - For complex claims, consult legal, medical, or forensic experts
+    - Underwriter relevance:
+      - Ensures that coverage assumptions match real-world claims outcomes
+      - Provides feedback to improve policy wording, risk assessment, and exclusions
+
+Stage: Approval Process
+    - Claim is valid → approved
+    - Payout calculated considering:
+      - deductibles
+      - policy limits
+      - extent of loss/damage
+    - Policyholder notified formally of approval and payout details
+    - Payment processed to policyholder
+    - Underwriter relevance:
+      - Helps calibrate pricing models and risk evaluation for similar policies
+      - Tracks approved claims to measure portfolio performance
+
+Stage: Rejection Process
+    - Reasons for rejection:
+      - Policy exclusions
+      - Non-disclosure of material facts
+      - Suspected fraud
+      - Lack of coverage for the type of loss
+      - Claims filed after policy deadlines
+    - Policyholder receives written explanation referencing policy terms
+    - Underwriter relevance:
+      - Identifies high-risk profiles and patterns of potential misuse
+      - Adjusts underwriting rules or risk appetite for future policies
+
+Stage: Appeal Process
+      - Policyholder can submit additional evidence for reconsideration
+      - Internal review conducted, sometimes by a higher authority
+      - Final decision communicated; option for external dispute resolution if appeal denied
+    - Underwriter relevance:
+      - Monitors recurring appeal trends to refine underwriting guidelines
+      - Ensures policy wording is clear to prevent frequent disputes
+
+Underwriter Responsibilities (Based on Claims Approval/Rejection)
+    - Review claim outcomes to validate underwriting assumptions
+    - Adjust risk evaluation and pricing based on claim approvals/rejections
+    - Analyze reasons for rejections to identify gaps in underwriting or coverage
+    - Monitor appeal trends to improve policy clarity and risk guidelines
+    - Collaborate with claims, legal, and compliance teams for high-risk or disputed cases
+
