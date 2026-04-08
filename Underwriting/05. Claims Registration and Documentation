@@ -1,0 +1,49 @@
+
+Stage: Claim Notification
+    - Policyholder informs insurer of an incident promptly
+    - Channels: phone, email, online portal, in-person
+    - Key information:
+      - policy number
+      - date/time of incident
+      - description of event
+      - extent of damage or loss
+    - Underwriter relevance:
+      - Timely notifications help identify patterns of risk quickly
+      - Initial data can flag high-risk applications for future underwriting review
+
+Stage: Claim Registration
+      - Insurer creates a unique claim file/case number
+      - Assigns claims handler to manage the case
+      - Initial assessment may be done to check basic validity
+    - Underwriter relevance:
+      - Helps ensure that risk evaluation assumptions align with actual claims experience
+
+Stage: Documentation Requirements
+    - Policyholder submits supporting documents:
+      - proof of loss (photos, receipts, repair estimates)
+      - incident reports (police or official reports if required)
+      - policy documents for coverage confirmation
+    - Underwriter relevance:
+      - Documents provide data to refine risk models and pricing
+      - Patterns in documentation requirements indicate types of frequent claims
+
+Stage: Verification of Information
+      - Internal verification: cross-check details against policy terms and coverage limits
+      - Third-party verification: confirm information through law enforcement, service providers, repair shops
+    - Underwriter relevance:
+      - Ensures underwriting assumptions (risk, coverage, exposure) match real-world events
+      - Identifies discrepancies or areas where policy terms need clarity
+
+Stage: Acknowledgement of Claim
+      - Insurer confirms claim receipt and registration
+      - Provides next steps, timelines, and contact details for claims handler
+    - Underwriter relevance:
+      - Keeps track of active claims that may impact portfolio monitoring
+      - Supports feedback loop for refining underwriting guidelines
+
+Underwriter Responsibilities (Based on Claims Registration)
+    - Monitor initial claim notifications for emerging risk trends
+    - Ensure completeness of documentation for accurate risk assessment
+    - Use verification outcomes to validate underwriting assumptions
+    - Track claims registration to maintain alignment with coverage and policy terms
+    - Identify recurring issues that may require adjustments to underwriting rules
