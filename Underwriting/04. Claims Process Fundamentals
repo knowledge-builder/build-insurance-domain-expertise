@@ -1,0 +1,67 @@
+
+Stage: Claim Notification
+    - Policyholder reports an incident or loss
+    - Basic information collected:
+      - policy number
+      - details of event
+      - preliminary documents
+    - Underwriter relevance:
+      - Use notification trends to identify risk patterns for similar policies
+
+Stage: Claim Acknowledgement
+      - Insurer confirms receipt
+      - Provides reference number and contact for follow-up
+    - Underwriter relevance:
+      - Track claims workflow to anticipate potential impacts on portfolio
+
+Stage: Assessment and Verification
+      - Insurer reviews:
+        - policy coverage
+        - claim authenticity
+        - initial evidence
+      - Underwriter relevance:
+        - Verify if policy terms were properly applied
+        - Identify areas where coverage might be unclear or risky
+
+Stage: Appointment of Adjusters and Investigators
+        - Complex claims get adjusters/investigators
+        - They gather evidence, assess damage, interview witnesses
+      - Underwriter relevance:
+        - Use findings to refine risk evaluation for future similar policies
+        - Flag patterns of high-risk behaviors or conditions
+
+Stage: Claim Evaluation and Decision
+      - Insurer determines:
+        - validity of claim
+        - payout amount
+        - coverage application
+      - Underwriter relevance:
+        - Review how claim outcomes align with underwriting assumptions
+        - Adjust underwriting rules if needed for better risk management
+
+Stage: Communication of Outcome
+      - Insurer informs policyholder:
+        - approval → payout process
+        - denial → explanation and appeal options
+      - Underwriter relevance:
+        - Ensure policy wording is clear and aligns with company risk appetite
+        - Identify ambiguous clauses that may create frequent disputes
+
+Stage: Claim Settlement
+        - Payment is made to policyholder or service provider
+        - Finalizes the claims process, though follow-up is possible
+      - Underwriter relevance:
+        - Use settlement data to calculate loss ratios
+        - Feed claims experience back into underwriting decisions
+
+Underwriter Responsibilities (Based on Claims Process)
+      - Monitor claims trends to evaluate portfolio risk
+      - Use claims data to improve:
+        - risk assessment
+        - pricing models
+        - coverage definitions
+      - Identify high-risk clients or assets
+      - Adjust underwriting rules based on claims outcomes
+      - Collaborate with claims team to clarify policy interpretation
+
+
