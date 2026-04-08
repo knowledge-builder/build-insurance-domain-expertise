@@ -1,0 +1,85 @@
+Stage: Client Applies for Insurance
+    - Client specifies:
+      - type of insurance needed
+      - purpose of coverage
+      - details of risk
+    - Common categories:
+      - life
+      - health
+      - property
+      - liability
+      - specialized
+
+Stage: Risk Assessment (Depends on Policy Type)
+    - Risk evaluation changes based on policy category
+
+Life Insurance
+    - Focus:
+      - lifespan risk
+      - health condition
+      - financial profile
+
+Health Insurance
+    - Focus:
+      - medical history
+      - likelihood of treatment costs
+
+Property Insurance
+    - Focus:
+      - physical asset condition
+      - location risks (fire, flood, theft)
+
+Liability Insurance
+    - Focus:
+      - exposure to legal claims
+      - business or personal activities
+
+Specialized Insurance
+    - Focus:
+      - niche or high-risk scenarios
+      - industry-specific risks
+
+Stage: Risk Decision
+    - Decision criteria varies by type:
+      - life → mortality risk
+      - health → medical cost risk
+      - property → damage probability
+      - liability → legal exposure
+
+Stage: Pricing and Terms
+    - Premium structure depends on:
+      - type of policy
+      - level of risk exposure
+      - potential loss size
+    - Coverage design differs:
+      - life → fixed payout
+      - property → asset value-based
+      - liability → legal cost coverage
+
+Stage: Claims (Future Impact)
+    - Type of policy determines:
+      - how claims occur
+      - how often claims happen
+      - how large payouts are
+
+Stage: Feedback Loop
+    - Claims data is analyzed per policy type
+    - Used to:
+      - refine risk models
+      - adjust pricing
+      - update guidelines
+
+Underwriter Responsibilities (Based on Policy Type)
+    - Identify correct policy type for the risk
+    - Apply different evaluation logic per policy
+    - Adjust pricing based on risk characteristics
+    - Define appropriate coverage structure
+    - Understand how each policy type affects:
+      - claim frequency
+      - claim severity
+    - Use policy-specific data to improve decisions
+
+Key Takeaway
+    - Underwriting is not one-size-fits-all
+    - Each policy type requires a different risk evaluation approach
+    - Understanding policy categories is essential for accurate decisions
