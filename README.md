@@ -12,3 +12,5 @@ A structured repository for learning the insurance domain. It stores notes, idea
 [Diploma in Risk Management](https://alison.com/topic/learn/70676/learning-outcomes)
 
 [Risk Management: Managing Property and Liability Risk](https://alison.com/topic/learn/75434/learning-outcomes)
+
+[Risk Management: Managing Life Cycle Risks](https://alison.com/topic/learn/75413/learning-outcomes)
