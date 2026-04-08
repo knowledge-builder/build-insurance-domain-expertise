@@ -22,3 +22,5 @@ A structured repository for learning the insurance domain. It stores notes, idea
 [ISO 31000:2018 - Enterprise Risk Management Framework for Risk Leaders](https://alison.com/topic/learn/110335/learning-outcomes)
 
 [ISO 31000 - The Fundamentals of Enterprise Risk Management](https://alison.com/topic/learn/148298/different-types-of-risk)
+
+[Understanding Supply Chain Risk Management](https://alison.com/topic/learn/69776/supply-chain-risk-part-2)
