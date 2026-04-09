@@ -24,3 +24,7 @@ A structured repository for learning the insurance domain. It stores notes, idea
 [ISO 31000 - The Fundamentals of Enterprise Risk Management](https://alison.com/topic/learn/148298/different-types-of-risk)
 
 [Understanding Supply Chain Risk Management](https://alison.com/topic/learn/69776/supply-chain-risk-part-2)
+
+#
+
+[P&C Insurance Exam Study Guide](https://www.youtube.com/watch?v=27kCbtTmitE)
