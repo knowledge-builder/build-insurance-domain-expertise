@@ -1,3 +1,6 @@
+Underwriting is the process of evaluating risk to decide whether to approve an application and under what terms; it is commonly used in insurance to assess a person’s risk and set coverage and premiums, in lending to review income, credit history, and debt before approving a loan and determining interest rates, and in investments where financial institutions help price and sell securities like stocks or bonds, with the core idea being to assess risk, make a decision, and assign appropriate conditions.
+#
+
 
 [Fundamentals of Insurance Claims Handling](https://alison.com/topic/learn/163263/insurance-claim-process)
 
