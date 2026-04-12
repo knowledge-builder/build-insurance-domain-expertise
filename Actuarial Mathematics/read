@@ -1,0 +1,190 @@
+ACTUARIAL LEARNING OUTLINE
+
+I. Mathematical Foundations
+
+A. Probability Theory
+
+Random variables (discrete and continuous)
+  Probability distributions:
+  Bernoulli, Binomial
+  Poisson
+  Normal
+  Exponential
+Cumulative distribution functions (CDFs) and PDFs
+Expected value, variance, higher moments
+Conditional probability and independence
+Bayes’ Theorem
+Law of Large Numbers
+Central Limit Theorem
+
+B. Statistics
+
+Descriptive statistics (mean, variance, skewness, kurtosis)
+Sampling methods and bias
+Estimation:
+  Point estimators
+  Maximum likelihood estimation (MLE)
+Confidence intervals
+Hypothesis testing:
+  t-tests, chi-square tests
+Correlation and covariance
+
+C. Regression and Predictive Modeling
+
+Linear regression
+Logistic regression
+Model diagnostics and assumptions
+Feature selection
+Bias-variance tradeoff
+
+D. Generalized Linear Models (Core Actuarial Tool)
+
+GLM framework:
+  Link functions
+  Distribution families
+Poisson regression (frequency modeling)
+Gamma regression (severity modeling)
+Model interpretation and validation
+
+E. Financial Mathematics
+
+Time value of money
+Interest theory:
+Simple and compound interest
+Present value and future value
+Annuities (immediate and due)
+Discounting cash flows
+Basic portfolio concepts
+
+II. Actuarial Modeling Concepts
+
+A. Frequency–Severity Framework
+
+Claim frequency modeling
+Claim severity modeling
+Aggregate loss modeling:
+  Expected loss = frequency × severity
+
+B. Risk Modeling
+
+Risk classification
+Segmentation of policyholders
+Loss distribution modeling
+Exposure measurement
+
+C. Model Validation
+
+Goodness-of-fit tests
+Residual analysis
+Overfitting vs underfitting
+Out-of-sample validation
+
+III. Insurance Domain Knowledge
+
+A. Core Insurance Concepts
+
+Premium
+Deductible
+Policy limits
+Coverage types
+Claims process
+Underwriting basics
+
+B. Risk and Pooling
+
+Risk pooling principles
+Diversification
+Law of Large Numbers in insurance context
+
+C. Key Insurance Metrics
+
+Loss ratio (claims / premium)
+Claim frequency
+Claim severity
+Combined ratio (if applicable)
+Exposure units
+                
+D. Pricing Principles
+                
+Expected loss pricing
+Expense loading
+Profit margin
+Risk-based pricing
+Rate adequacy
+                
+E. Reserving (Introductory)
+Incurred vs reported claims
+Loss reserves
+Development over time
+                
+IV. Underwriting Awareness (Supporting Knowledge)
+                
+A. Risk Selection
+                
+Accept/reject decisions
+Risk appetite
+                
+B. Risk Factors
+                
+Demographic, behavioral, geographic variables
+Identification of high-risk profiles
+                
+C. Adverse Selection
+                
+Information asymmetry
+Impact on pricing and portfolio
+                
+D. Policy Structuring
+                
+Deductibles, limits, exclusions
+Impact on claim behavior and risk
+                
+V. Data and Technical Skills
+                
+A. Data Handling
+                
+Data cleaning and preprocessing
+Missing data handling
+Outlier detection
+                
+B. SQL
+                
+Data extraction
+Joins and aggregations
+Data transformation
+                
+C. Programming (Python or R)
+                
+Data analysis libraries
+Statistical modeling
+Automation of workflows
+                
+D. Excel / VBA / Automation
+Advanced Excel modeling
+Reporting automation
+Dashboard creation
+                
+VI. Practical Application Workflow
+                
+Data extraction and validation
+Exploratory data analysis
+Distribution fitting
+Model building (frequency and severity)
+Model evaluation
+Pricing and business interpretation
+Automation and reporting
+                
+Summary Structure
+                
+Learn probability and statistics fundamentals
+Move into regression and GLMs
+Understand financial mathematics
+Apply models to insurance problems (frequency, severity, pricing)
+
+
+
+                
+Learn core insurance concepts and metrics
+Build technical skills (SQL, Python/R, Excel automation)
+Integrate underwriting awareness into modeling decisions
+Continuously apply concepts to real data
